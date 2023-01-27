@@ -1,0 +1,180 @@
+* {
+   box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+	background-color: #bfc7c2;
+
+}
+
+header { font-family: Bluu Next;
+	text-align: center; 
+         font-size: 25px;
+         padding: 70px;
+         margin-bottom: 100px;}
+
+
+
+img[src*="roze.svg"]
+{width: 100px;
+height: auto;
+position: absolute;
+}
+
+.link {
+	width: 100px;
+	height: auto;
+	align-items: center;
+	position: flex;
+margin: auto;}
+
+.link:hover {
+   color: white;
+} 
+
+.st0:hover {
+   fill: whitesmoke;
+}
+
+.gdiv {
+	items-align: center;
+}
+
+
+.galeri {
+	  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px 10px;
+  alignment-baseline: central;
+
+}      
+
+
+
+
+img[src*="srcecelo"]
+{width: 700px;
+	margin: 30px;
+padding: 30px;
+align-content: left} 
+
+img[src*="drveceee"]
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	} 
+
+img[src*="talasi"]
+{width: 500px;
+	align-content: left;
+margin: 30px;
+	padding: :30px;} 
+
+
+img[src*="okicwe"]
+{width: 500px;
+	align-content: right;
+margin: 30px;
+	padding: :30px;} 
+
+
+img[src*="akt1.png"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	} 
+
+	img[src*="lovers.png"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	} 
+
+		img[src*="trigracije.png"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	} 
+		img[src*="Ivana Paripović-Ženasabiljčicom.jpg"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	} 
+
+			img[src*="bubee.png"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	}		
+
+	img[src*="bakuta.png"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	}
+
+	img[src*="Ivana Paripovič-Patuljak i trubice.jpg"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	}
+
+	img[src*="Ivana Paripović-Bebecrvimahune.jpg"] 
+{width: 500px;
+	margin: 30px;
+	padding: :30px;
+	}
+
+	
+
+img[src*="kruske2"]
+{width: 600px;
+	margin: 30px;
+	padding: :30px;
+	} 
+
+img[src*="musmule3"]
+{width: 600px;
+    margin: 30px;
+	padding: :30px;}
+
+img[ src*="Plakat-blue velvet- RGB.jpg"]{
+	margin: 30px;
+	padding: :30px;
+	width: 500px;
+	height: auto;
+}
+
+
+img[ src*="FromtheheartRGBposter-01.jpg"]
+{	margin: 30px;
+	padding: :30px;
+	width: 500px;
+
+}
+
+
+img[ src*="golik.jpg"]
+{	margin: 30px;
+	padding: :30px;
+	width: 500px;
+
+}
+
+img[ src*="skulpt.png"]
+{	margin: 30px;
+	padding: :30px;
+	width: 500px;
+
+}
+
+

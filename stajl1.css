@@ -1,0 +1,117 @@
+* {
+   box-sizing: border-box;
+   overflow: hidden;
+   margin: 0;
+   padding: 0;
+   margin-top: 10px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+margin: 0;
+   background-color: black;
+}
+
+
+
+a{
+  color: hotpink;
+  text-decoration: none;
+  
+}
+
+h1 {
+   font-size: 70px;
+   color:  deeppink;
+   padding-bottom: 10px;
+   font-family: Bluu Next;
+   text-align: center;
+   justify-content: center;
+   margin: 25px, 0px, 10px, 0px;
+   height: 90px;
+   overflow:hidden;
+   top: 20px;
+   text-align: center;
+
+
+}
+
+.navbar {
+   font-family: bugrino;
+   font-size: 20px;
+   margin:  0;
+   height:70px;
+   width: 100wv;
+   text-align: center;
+   top: 5px;
+   background-color: black;
+   word-spacing: 70px ;
+}
+
+#naslov {
+   
+   text-align: center;
+   background-color: black;
+   top: 20px;
+
+} 
+
+
+
+a:hover
+{color: black;
+   background-color: lawngreen;
+
+}
+
+.kairon {
+   display: flex;
+   justify-content: flex-start;
+   background: black;
+   overflow: hidden;
+   width: 200vw;
+
+}
+
+h2 {
+   font-family: bugrino;
+   font-size: 10pt;
+   color: whitesmoke;
+   white-space: nowrap;
+   padding: 10px;
+   letter-spacing: 1px;
+   animation: move-rtl 6000ms linear infinite;
+   width: 100vh;
+}
+
+@keyframes move-rtl {
+   0% {
+      transform: translateX(0);
+   }
+   100% {
+      transform: translateX(-100%);
+   }
+}
+
+
+#gif{
+
+background-image: ;
+display: block;
+  justify-content: center;
+   align-content: center;
+   width: 100vw;
+   padding-top: 30px;
+   border-top: 5;
+}
+
+
+
+
+img[src*="maca1"] {
+   height: 30px;
+   width: auto;
+}
